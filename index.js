@@ -17,5 +17,4 @@ server([
 	socket('message', sendMessage)
 ]);
 
-//serve.listen(3000);
 console.log('Server running');
